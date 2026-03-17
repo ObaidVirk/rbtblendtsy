@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "about": "会社概要",
+    "solutions": "ソリューション",
+    "platform": "プラットフォーム",
+    "resources": "リソース",
+    "pricing": "料金",
+    "contact": "お問い合わせ",
+    "login": "ログイン",
+    "signup": "新規登録",
+    "dashboard": "ダッシュボード"
+  },
+  "hero": {
+    "headline": "世界の金融イノベーションを推進する",
+    "subheadline": "rbtblendtsy.com は金融サービスのオープンプラットフォームです — 世界130カ国以上の銀行、フィンテック企業、金融機関にソフトウェアソリューションを提供しています。",
+    "cta": "ソリューションを見る",
+    "ctaSecondary": "デモを見る"
+  },
+  "login": {
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "submit": "ログイン",
+    "forgot": "パスワードをお忘れですか？"
+  },
+  "signup": {
+    "name": "氏名",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "confirmPassword": "パスワードの確認",
+    "submit": "アカウントを作成"
+  }
+}

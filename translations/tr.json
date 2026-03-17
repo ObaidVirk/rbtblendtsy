@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "solutions": "Çözümler",
+    "platform": "Platform",
+    "resources": "Kaynaklar",
+    "pricing": "Fiyatlandırma",
+    "contact": "İletişim",
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "dashboard": "Kontrol Paneli"
+  },
+  "hero": {
+    "headline": "Dünya Finansal İnovasyonunu Güçlendirmek",
+    "subheadline": "rbtblendtsy.com, finansal hizmetler için açık bir platformdur — 130'dan fazla ülkede bankalara, fintechlere ve finansal kuruluşlara yazılım çözümleri sunmaktadır.",
+    "cta": "Çözümleri Keşfet",
+    "ctaSecondary": "Demo İzle"
+  },
+  "login": {
+    "email": "E-posta Adresi",
+    "password": "Şifre",
+    "submit": "Giriş Yap",
+    "forgot": "Şifremi unuttum?"
+  },
+  "signup": {
+    "name": "Tam Ad",
+    "email": "E-posta Adresi",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "submit": "Hesap Oluştur"
+  }
+}

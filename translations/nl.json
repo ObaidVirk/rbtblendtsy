@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Over ons",
+    "solutions": "Oplossingen",
+    "platform": "Platform",
+    "resources": "Bronnen",
+    "pricing": "Prijzen",
+    "contact": "Contact",
+    "login": "Inloggen",
+    "signup": "Registreren",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "headline": "De wereldwijde financiële innovatie aandrijven",
+    "subheadline": "rbtblendtsy.com is het open platform voor financiële diensten — softwareoplossingen voor banken, fintechs en financiële instellingen in meer dan 130 landen.",
+    "cta": "Oplossingen verkennen",
+    "ctaSecondary": "Demo bekijken"
+  },
+  "login": {
+    "email": "E-mailadres",
+    "password": "Wachtwoord",
+    "submit": "Inloggen",
+    "forgot": "Wachtwoord vergeten?"
+  },
+  "signup": {
+    "name": "Volledige naam",
+    "email": "E-mailadres",
+    "password": "Wachtwoord",
+    "confirmPassword": "Wachtwoord bevestigen",
+    "submit": "Account aanmaken"
+  }
+}

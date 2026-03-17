@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "solutions": "Soluzioni",
+    "platform": "Piattaforma",
+    "resources": "Risorse",
+    "pricing": "Prezzi",
+    "contact": "Contatti",
+    "login": "Accedi",
+    "signup": "Registrati",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "headline": "Alimentare l'innovazione finanziaria mondiale",
+    "subheadline": "rbtblendtsy.com è la piattaforma aperta per i servizi finanziari — fornisce soluzioni software a banche, fintech e istituzioni finanziarie in oltre 130 paesi.",
+    "cta": "Esplora le soluzioni",
+    "ctaSecondary": "Guarda la demo"
+  },
+  "login": {
+    "email": "Indirizzo email",
+    "password": "Password",
+    "submit": "Accedi",
+    "forgot": "Password dimenticata?"
+  },
+  "signup": {
+    "name": "Nome completo",
+    "email": "Indirizzo email",
+    "password": "Password",
+    "confirmPassword": "Conferma password",
+    "submit": "Crea account"
+  }
+}

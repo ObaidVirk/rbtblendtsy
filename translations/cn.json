@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "solutions": "解决方案",
+    "platform": "平台",
+    "resources": "资源",
+    "pricing": "价格",
+    "contact": "联系我们",
+    "login": "登录",
+    "signup": "注册",
+    "dashboard": "控制台"
+  },
+  "hero": {
+    "headline": "推动全球金融创新",
+    "subheadline": "rbtblendtsy.com 是金融服务领域的开放平台 — 为全球130多个国家的银行、金融科技公司和金融机构提供软件解决方案。",
+    "cta": "探索解决方案",
+    "ctaSecondary": "观看演示"
+  },
+  "login": {
+    "email": "电子邮件地址",
+    "password": "密码",
+    "submit": "登录",
+    "forgot": "忘记密码？"
+  },
+  "signup": {
+    "name": "全名",
+    "email": "电子邮件地址",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "submit": "创建账户"
+  }
+}

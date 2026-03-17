@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "solutions": "Giải pháp",
+    "platform": "Nền tảng",
+    "resources": "Tài nguyên",
+    "pricing": "Bảng giá",
+    "contact": "Liên hệ",
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+    "dashboard": "Bảng điều khiển"
+  },
+  "hero": {
+    "headline": "Thúc đẩy Đổi mới Tài chính Toàn cầu",
+    "subheadline": "rbtblendtsy.com là nền tảng mở cho dịch vụ tài chính — cung cấp giải pháp phần mềm cho các ngân hàng, fintech và tổ chức tài chính tại hơn 130 quốc gia trên toàn thế giới.",
+    "cta": "Khám phá giải pháp",
+    "ctaSecondary": "Xem Demo"
+  },
+  "login": {
+    "email": "Địa chỉ email",
+    "password": "Mật khẩu",
+    "submit": "Đăng nhập",
+    "forgot": "Quên mật khẩu?"
+  },
+  "signup": {
+    "name": "Họ và tên",
+    "email": "Địa chỉ email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "submit": "Tạo tài khoản"
+  }
+}

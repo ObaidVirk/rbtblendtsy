@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "solutions": "Solusi",
+    "platform": "Platform",
+    "resources": "Sumber Daya",
+    "pricing": "Harga",
+    "contact": "Kontak",
+    "login": "Masuk",
+    "signup": "Daftar",
+    "dashboard": "Dasbor"
+  },
+  "hero": {
+    "headline": "Mendukung Inovasi Keuangan Dunia",
+    "subheadline": "rbtblendtsy.com adalah platform terbuka untuk layanan keuangan — menyediakan solusi perangkat lunak untuk bank, fintech, dan lembaga keuangan di lebih dari 130 negara.",
+    "cta": "Jelajahi Solusi",
+    "ctaSecondary": "Tonton Demo"
+  },
+  "login": {
+    "email": "Alamat Email",
+    "password": "Kata Sandi",
+    "submit": "Masuk",
+    "forgot": "Lupa kata sandi?"
+  },
+  "signup": {
+    "name": "Nama Lengkap",
+    "email": "Alamat Email",
+    "password": "Kata Sandi",
+    "confirmPassword": "Konfirmasi Kata Sandi",
+    "submit": "Buat Akun"
+  }
+}
